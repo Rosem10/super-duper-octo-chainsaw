@@ -19,3 +19,15 @@ function getFaveNumbers(person){
 }
 
 getFaveNumbers("chipie")
+
+
+function getFaveAnimals(person) {
+    const faveAnimals = {
+        "saleh": "Peanut",
+        "stephen": "Obi"
+    }
+    console.log(`${person}'s favourite animal is ${faveAnimals[person]}`)
+}
+
+getFaveAnimals("saleh")
+getFaveAnimals("stephen")
