@@ -31,3 +31,5 @@ function getFaveAnimals(person) {
 
 getFaveAnimals("saleh")
 getFaveAnimals("stephen")
+
+function doAThing(){}
